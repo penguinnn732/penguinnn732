@@ -1,4 +1,4 @@
-# Hi, I'm Yeng Pin 👋
+# Hi, I'm Yeng Pin 
 
 Computing student at Taylor's University, Malaysia.
 
